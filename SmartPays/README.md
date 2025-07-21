@@ -38,7 +38,7 @@
 
 ### 1️⃣ Clone or Download Project
 
-git clone https://github.com/your-username/SmartPay.git
+git clone https://github.com/NiketanSarode/SmartPay.git
 cd SmartPay
 
 ### 2️⃣ Create MySQL Database
