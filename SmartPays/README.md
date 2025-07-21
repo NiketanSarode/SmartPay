@@ -24,7 +24,7 @@
 
 | Layer        | Technology             |
 |--------------|------------------------|
-| Language     | Java (JDK 11)          |
+| Language     | Java (JDK 24)          |
 | UI Framework | Java Swing             |
 | Database     | MySQL 8+               |
 | Connector    | JDBC (MySQL Connector) |
